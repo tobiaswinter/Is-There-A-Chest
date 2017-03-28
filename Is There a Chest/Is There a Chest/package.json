@@ -1,0 +1,9 @@
+{
+  "name": "is-there-a-chest",
+  "version": "0.0.0",
+  "description": "Is There a Chest",
+  "main": "server.js",
+  "author": {
+    "name": "Tobias"
+  }
+}
